@@ -1,0 +1,8 @@
+.userWrapper {
+    padding: 5px;
+    border: red solid 1px;
+}
+
+.userWrapper:not(:first-child) {
+    margin-top: 10px;
+}
