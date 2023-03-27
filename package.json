@@ -1,6 +1,6 @@
 {
   "name": "test-frontend",
-  "homepage": "https://aliaksandr-batskalevich.github.io/test-frontend",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
